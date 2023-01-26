@@ -1,0 +1,3 @@
+{"level":"error","message":"Hola, esto es un mensaje personalizado de ERROR!","service":"user-service"}
+{"level":"error","message":"Hola, esto es un mensaje personalizado de ERROR!"}
+{"level":"error","message":"Hola, esto es un mensaje personalizado de ERROR!"}
